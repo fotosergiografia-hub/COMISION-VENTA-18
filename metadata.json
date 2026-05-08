@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Comisiones - La 18",
+  "description": "Sistema de gestión de comisiones y bonos para Papelería & Electrónica de la 18. Cálculo automático basado en meta diaria de $30,000.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
